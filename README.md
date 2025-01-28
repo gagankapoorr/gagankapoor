@@ -7,7 +7,6 @@ Hi there 👋 I'm Gagan Kapoor, a passionate DevOps enthusiast 🚀 currently on
 
 • 🔨 Diving deep into tools like Docker, Kubernetes, Terraform, Jenkins, and more.
 
-• 🎓 Education: Graduated with a B.Tech in Computer Science Engineering in 2024.
 
 ⚡ **Fun Facts About Me:**
 
