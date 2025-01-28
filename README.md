@@ -10,7 +10,7 @@ Hi there 👋 I'm Gagan Kapoor, a passionate DevOps enthusiast 🚀 currently on
 
 ⚡ **Fun Facts About Me:**
 
-• 🌌 My name means "sky" reflecting my limitless curiosity and drive to grow and it also reminds me to always aim high and dream big. 
+• 🌌 My name means "sky" reflecting my limitless curiosity and drive to grow.
 
 • 🎯 I believe in continuous learning and improvement.
 
